@@ -3,16 +3,16 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdulbasitkhan99/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdulbasitkhan99/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/PhoenixxBasit" target="_blank">
+  <a href="https://twitter.com/PhoenixxBasit">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" height="36" alt="twitter logo"  />
   </a>
-  <a href="@phoenixxbasit" target="_blank">
+  <a href="@phoenixxbasit">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="36" alt="discord logo"  />
   </a>
-  <a href="https://www.upwork.com/freelancers/abdulbasitk11" target="_blank">
+  <a href="https://www.upwork.com/freelancers/abdulbasitk11">
     <img src="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/upwork.ico" width="36" height="36" alt="discord logo"  />
   </a>
 </div>
