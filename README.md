@@ -19,9 +19,7 @@
 
 ###
 
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=phoenixxbasit&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="160" alt="stats graph" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=phoenixxbasit&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" alt="stats graph" />
 
 **About Me**
 
